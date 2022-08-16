@@ -7,8 +7,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 
 <!-- PROJECT LOGO -->
@@ -40,7 +38,12 @@ Fingerspelling is a vital tool in sign language, as it enables the communication
 In spite of this, fingerspelling is not widely used as it is challenging to understand and difficult to use.  
 Moreover, there is no universal sign language, and very few people know it, making it an inadequate communication alternative
 
+## Poster
+<div align="center">
+    <img src="poster.png" alt="Logo" width="500" height="800">
+    </div>
 <!-- GETTING STARTED -->
+  
 ## Introduction
 
 Sign Language (SL) is the primary language for the speaking and hearing impaired.  
