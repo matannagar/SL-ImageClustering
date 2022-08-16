@@ -100,7 +100,11 @@ We would like to thank Romansko/SignLanguageRecognition: Hebrew sign language re
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Orya-s"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQG4Yq9CGzKd3A/profile-displayphoto-shrink_800_800/0/1615537853889?e=1645056000&v=beta&t=MD9VtIzuBwgxhIFzdso7bJOA6HkUtHjfSa-DANwfK7w" width="100px;" alt=""/><br /><sub><b>Orya Spiegel</b></sub></a><br /> </td>
-    <td align="center"><a href="https://github.com/asahelcohen/"><img src="https://avatars.githubusercontent.com/u/73488196?v=4" width="100px;" alt=""/><br /><sub><b>Asahel Cohen</b></sub></a><br /> </td>
+    <td align="center"><a href="https://github.com/Orya-s"><img src="https://avatars.githubusercontent.com/u/61458890?v=4" width="100px;" alt=""/><br /><sub><b>Orya Spiegel</b></sub></a><br /> </td>
+      <td align="center"><a href="https://github.com/asahelcohen/"><img src="https://avatars.githubusercontent.com/u/73488196?v=4" width="100px;" alt=""/><br /><sub><b>Asahel Cohen</b></sub></a><br /> </td>
   </tr>
+    <td align="center"><a href="https://github.com/Roniharel100/"><img src="https://avatars.githubusercontent.com/u/73277411?v=4" width="100px;" alt=""/><br /><sub><b>Asahel Cohen</b></sub></a><br /> </td>
+  <td align="center"><a href="https://github.com/matannagar/"><img src="https://avatars.githubusercontent.com/u/73398186?s=400&u=511e80b3682dab013aca758f1a1edbbfc73b0395&v=4" width="100px;" alt=""/><br /><sub><b>Matan-Ben Nagar</b></sub></a><br /> 
+    </td>
+    </tr>
 </table>
