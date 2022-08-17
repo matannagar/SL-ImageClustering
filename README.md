@@ -67,6 +67,10 @@ We would like to thank Romansko/SignLanguageRecognition: Hebrew sign language re
 
 ## Results
 
+<div align="center">
+    <img src="results.png" alt="Logo" width="400" height="250">
+    </div>
+
 <!-- USAGE EXAMPLES -->
 ## References
  * A Brief Introduction to Unsupervised Learning | by Aidan Wilson | Towards Data Science  
